@@ -13,5 +13,7 @@ System.out.println("Hello, World! In feature branch");
             To check fetch
             checking merge in feature1
  }          
+            checking merge
+ }
     }
     
